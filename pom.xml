@@ -5,7 +5,7 @@
 
     <artifactId>domain-supertype</artifactId>
     <groupId>com.parisesoftware</groupId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <name>Groovy Domain Layer Supertype</name>
     <description>Sample Domain Layer Supertype Implemented in Groovy</description>
     <packaging>jar</packaging>
@@ -24,7 +24,7 @@
         <connection>scm:git:git://github.com/AParise1217/groovy-domain-layer-supertype.git</connection>
         <developerConnection>scm:git:git@github.com:AParise1217/groovy-domain-layer-supertype.git</developerConnection>
         <url>https://github.com/AParise1217/groovy-domain-layer-supertype</url>
-        <tag>HEAD</tag>
+        <tag>domain-supertype-1.0.1</tag>
     </scm>
 
     <licenses>
