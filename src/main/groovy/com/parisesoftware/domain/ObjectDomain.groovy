@@ -1,4 +1,4 @@
-package com.parisesoftware.sample.domain
+package com.parisesoftware.domain
 
 /**
  * Layer Supertype for Object Domain Models
